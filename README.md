@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hunt119
+- 👋 Hi, I’m @hnt119
 - 👀 I’m interested in building a spiderman suit.
 - 💞️ I’m looking to collaborate on AI control centre and AI assistance.
 - 📫 How to reach me: e1354518@u.nus.edu
