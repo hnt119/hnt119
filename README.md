@@ -1,15 +1,15 @@
-# yixuan huang.
+# Huang Yixuan
 
 - 👋 Hi, I’m [@hnt119](https://github.com/hnt119).  
   Currently a Mathematics undergraduate
   at the National University of Singapore.
-- 👀 I explore mathematical structure and enjoy turning ideas
+- 👀 I explore mathematical structure and AI frameworks and enjoy turning ideas
   into working tools and prototypes.
-- 📫 [website](https://hnt119.github.io/) ·
-  [notes](https://hnt119.github.io/writing/) ·
-  [email](mailto:e1354518@u.nus.edu)
+- 🔗  [website](https://hnt119.github.io/) · 
+  📝  [notes](https://hnt119.github.io/writing/) · 
+  📫  [email](mailto:e1354518@u.nus.edu)
 
-## selected work
+## Selected Work
 
 - **[Literature Review Engine](https://github.com/hnt119/lit-rev-engine)**  
   Python tools for reproducible literature reviews, passage retrieval,
@@ -27,8 +27,6 @@
 
 - **[Gecko Line](https://hnt119.github.io/play/)**  
   A small browser game inspired by Gold Miner and Spider-Man.
-
-  [Play](https://hnt119.github.io/play/)
 
 ---
 
