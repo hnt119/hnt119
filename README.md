@@ -1,9 +1,10 @@
 # yixuan huang.
 
 - 👋 Hi, I’m [@hnt119](https://github.com/hnt119).  
-  Mathematics undergraduate at the National University of Singapore.
-- 👀 I explore mathematical structure and enjoy turning ideas into
-  working tools and prototypes.
+  Currently a Mathematics undergraduate
+  at the National University of Singapore.
+- 👀 I explore mathematical structure and enjoy turning ideas
+  into working tools and prototypes.
 - 📫 [website](https://hnt119.github.io/) ·
   [notes](https://hnt119.github.io/writing/) ·
   [email](mailto:e1354518@u.nus.edu)
