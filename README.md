@@ -1,4 +1,4 @@
-# Huang Yixuan
+## About me
 
 - 👋 Hi, I’m [@hnt119](https://github.com/hnt119).  
   Currently a Mathematics undergraduate
