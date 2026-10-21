@@ -7,7 +7,7 @@
   into working tools and prototypes.
 - 🔗  [website](https://hnt119.github.io/) · 
   📝  [notes](https://hnt119.github.io/writing/) · 
-  📫  [email](mailto:e1354518@u.nus.edu)
+  📫  [email](mailto:yixuanhuang@u.nus.edu)
 
 ## Selected Work
 
