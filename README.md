@@ -31,7 +31,8 @@
   reproducible ZIPs for manual upload. It works offline after installation and
   needs no API key.
 
-  [Documentation](https://github.com/hnt119/wechat-sticker-publisher#readme)
+  [Project overview](https://hnt119.github.io/projects/wechat-sticker-publisher/)
+  · [Creator guide](https://github.com/hnt119/wechat-sticker-publisher/blob/main/docs/creator-guide.md)
   · [Latest release](https://github.com/hnt119/wechat-sticker-publisher/releases/latest)
 
 - **[Gecko Line](https://hnt119.github.io/play/)**  
