@@ -26,14 +26,13 @@
   · [Code](https://github.com/hnt119/polynomial-image-compression)
 
 - **[WeChat Sticker Publisher](https://github.com/hnt119/wechat-sticker-publisher)**
-  A standalone Python CLI and optional Codex skill that check static and animated
-  stickers, prepare album metadata and supplementary artwork, and package
-  reproducible ZIPs for manual upload. It works offline after installation and
-  needs no API key.
+  An offline-first Python toolkit and portable Agent Skill for validating and
+  packaging WeChat sticker albums. Seven installation adapters share one skill.
+  The CLI produces reproducible album ZIPs without an API key.
 
   [Project overview](https://hnt119.github.io/projects/wechat-sticker-publisher/)
-  · [Creator guide](https://github.com/hnt119/wechat-sticker-publisher/blob/main/docs/creator-guide.md)
-  · [Latest release](https://github.com/hnt119/wechat-sticker-publisher/releases/latest)
+  · [Agent installation guide](https://github.com/hnt119/wechat-sticker-publisher/blob/main/docs/agent-installation.md)
+  · [Latest stable release](https://github.com/hnt119/wechat-sticker-publisher/releases/latest)
 
 - **[Gecko Line](https://hnt119.github.io/play/)**  
   A small browser game inspired by Gold Miner and Spider-Man.
